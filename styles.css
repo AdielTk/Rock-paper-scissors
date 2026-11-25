@@ -1,0 +1,29 @@
+.dice{
+    display:inline-block;
+    text-align:center;
+    margin:0 20px;
+}
+.footer{
+    text-align:center;
+    font-size:15px;
+}
+button {
+  margin-top: 30px;
+  padding: 12px 28px;
+  font-family: "Indie Flower", cursive;
+  font-size: 1.3rem;
+  color: white;
+  background-color: #ff6b6b;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.1s, background-color 0.2s;
+}
+
+button:hover {
+  background-color: #ee5253;
+}
+
+button:active {
+  transform: scale(0.95);
+}
