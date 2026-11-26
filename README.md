@@ -20,7 +20,11 @@ roll a die each time the page is refreshed, and the winner is shown in the headi
 1. Clone the repo: git clone https://github.com/AdielTk/dicee.git
 
 2. 2. Open `index.html` in your browser.
-3. Refresh the page to roll again.
+3. Click on the Roll again button to roll again.
+
+   ## Demo
+
+[Live demo](https://AdielTk.github.io/dicee/)
 
 ## What I learned
 
