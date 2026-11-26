@@ -24,7 +24,7 @@ roll a die each time the page is refreshed, and the winner is shown in the headi
 
    ## Demo
 
-[Live demo](https://AdielTk.github.io/dicee/)
+[Live demo]-(https://AdielTk.github.io/dicee/)
 
 ## What I learned
 
