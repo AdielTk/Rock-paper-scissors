@@ -17,7 +17,7 @@ roll a die each time the page is refreshed, and the winner is shown in the headi
 
 ## How to run
 
-1. Clone the repo: git clone https://github.com/AdielTk/dicee.git
+1. Clone the repo: git clone https://github.com/AdielTk/Rock-paper-scissors.git
 
 2. 2. Open `index.html` in your browser.
 3. Click on the Roll again button to roll again.
